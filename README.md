@@ -1,7 +1,7 @@
 ### <div dir="rtl">وب سرویس php هوش مصنوعی بلک باکس</div>
 ***
 * نحوه استفاده
- * example.com/blackboxai.php?text=Hello&mode=1
+  * example.com/blackboxai.php?text=Hello&mode=1
 ***
 #### راهنمای mode وب سرویس.
 
