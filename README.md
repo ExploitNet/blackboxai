@@ -4,6 +4,7 @@
 
 example.com/blackboxai.php?text=Hello&mode=1
 ***
+
 #### راهنمای mode وب سرویس.
 
 <details markdown="1"> <summary><h3>Search Mode</h3> (click here)</summary> 
