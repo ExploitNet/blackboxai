@@ -12,5 +12,8 @@ example.com/blackboxai.php?text=Hello&mode=1
 | - | - |
 | **Mode 0** | **Search the AI ​​database** |
 | **Mode 1** | **Search the internet with the help of ai and write the appropriate answer** |
+
 </details>
+
+
 ***
